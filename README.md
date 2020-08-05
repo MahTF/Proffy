@@ -93,6 +93,7 @@ Projeto realizado na Next Level Week #2, na trila omnistack, ministrada pelo [CT
 - [Ts-node-dev](https://github.com/whitecolor/ts-node-dev)
 - [Knex](http://knexjs.org/)
 - [Cors](https://github.com/expressjs/cors)
+- [Axios](https://github.com/axios/axios)
 
 
 ## :memo: Licença

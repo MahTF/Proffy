@@ -94,6 +94,9 @@ Projeto realizado na Next Level Week #2, na trila omnistack, ministrada pelo [CT
 - [Knex](http://knexjs.org/)
 - [Cors](https://github.com/expressjs/cors)
 - [Axios](https://github.com/axios/axios)
+- [Expo](https://expo.io/)
+- [Expo Fonts](https://docs.expo.io/versions/latest/sdk/font/)
+- [React Navigation](https://reactnavigation.org/)
 
 
 ## :memo: Licença

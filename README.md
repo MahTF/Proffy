@@ -86,6 +86,7 @@ Projeto realizado na Next Level Week #2, na trila omnistack, ministrada pelo [CT
 ### :building_construction: Tecnologias
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 ### :package: Pacotes
 - [React-router-dom](https://reactrouter.com/web/guides/quick-start)

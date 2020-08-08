@@ -41,7 +41,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-> Em desenvolvimento...
 
 ## :clipboard: Descrição
 
@@ -98,6 +97,7 @@ Projeto realizado na Next Level Week #2, na trila omnistack, ministrada pelo [CT
 - [Expo](https://expo.io/)
 - [Expo Fonts](https://docs.expo.io/versions/latest/sdk/font/)
 - [React Navigation](https://reactnavigation.org/)
+- [Async Storage](https://docs.expo.io/versions/latest/sdk/async-storage/)
 
 
 ## :memo: Licença
